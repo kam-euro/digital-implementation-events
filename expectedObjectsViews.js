@@ -1,4 +1,5 @@
 // expectedObjectsViews.js
+// via vs code
 window.expectedTealiumViewObjects = [
   {
     event: "TealiumView",
